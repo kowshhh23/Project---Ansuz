@@ -1,10 +1,11 @@
-**### Project Ansuz v2.0: The Rune of the Spoken Word:
+Project Ansuz v2.0: The Rune of the Spoken Word
 
-_Project Ansuz is a specialized Windows desktop Text-to-Speech (TTS) solution engineered to overcome the challenges of high-noise environments. Developed for use in lecture halls, classrooms, and busy laboratories, it addresses the limitations of traditional robotic readers by offering human-like cadence and smart environmental adaptation.
+Project Ansuz is a specialized Windows desktop Text-to-Speech (TTS) solution engineered to overcome the challenges of high-noise environments. Developed for use in lecture halls, classrooms, and busy laboratories, it addresses the limitations of traditional robotic readers by offering human-like cadence and smart environmental adaptation.
 
-The application utilizes Microsoft Edge Neural voices to deliver high-fidelity audio without the need for API keys, subscriptions, or length restrictions. Its core innovation is a microphone-based interruption system that automatically pauses playback when ambient noise—such as a student speaking or a loud announcement—is detected, resuming seamlessly once the environment settles._
+The application utilizes Microsoft Edge Neural voices to deliver high-fidelity audio without the need for API keys, subscriptions, or length restrictions. Its core innovation is a microphone-based interruption system that automatically pauses playback when ambient noise—such as a student speaking or a loud announcement—is detected, resuming seamlessly once the environment settles.
 
 Technical Updates in v2.0:
+
 Neural Voice Engine
 
 The voice engine has been reconstructed to prioritize conversational realism over flat document reading:
@@ -43,4 +44,4 @@ Quiet/Normal: Optimized for offices and standard workspaces.
 
 Noisy/Presentation Hall: Configured for high-occupancy areas with PA systems and significant ambient crowds.
 
-Manual Calibration: Users can fine-tune RMS thresholds, sustain durations, and resume delays via dedicated sliders.**
+Manual Calibration: Users can fine-tune RMS thresholds, sustain durations, and resume delays via dedicated sliders.
